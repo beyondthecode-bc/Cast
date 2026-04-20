@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+  <!-- App -->
+  <string key="app.name">Cast</string>
+  <string key="app.quit">Quit Cast</string>
+  <string key="app.tagline">Randomness utility for Apple platforms</string>
+
+  <!-- General -->
+  <string key="general.settings">Settings</string>
+  <string key="general.about">About</string>
+  <string key="general.ok">OK</string>
+  <string key="general.cancel">Cancel</string>
+  <string key="general.done">Done</string>
+  <string key="general.home">Home</string>
+  <string key="general.reset">Reset</string>
+  <string key="general.copied">Copied</string>
+  <string key="general.close">Close</string>
+  <string key="general.space">Space</string>
+  <string key="general.settingsAndAbout">Settings &amp; About</string>
+  <string key="general.a11y.settingsAndAbout">Settings and About</string>
+
+  <!-- Modes -->
+  <string key="mode.number">Number</string>
+  <string key="mode.dice">Dice</string>
+  <string key="mode.coin">Coin</string>
+  <string key="mode.picker">Picker</string>
+  <string key="mode.password">Password</string>
+  <string key="mode.color">Color</string>
+  <string key="mode.shuffle">Shuffle</string>
+
+  <!-- Cast button -->
+  <string key="action.cast">Cast</string>
+
+  <!-- Number mode -->
+  <string key="number.min">Min</string>
+  <string key="number.max">Max</string>
+  <string key="number.uniqueInSession">Unique in session</string>
+  <string key="number.exhausted">All values used</string>
+
+  <!-- Dice mode -->
+  <string key="dice.sides">Sides</string>
+  <string key="dice.count">Count</string>
+
+  <!-- Coin mode -->
+  <string key="coin.heads">Heads</string>
+  <string key="coin.tails">Tails</string>
+  <string key="coin.flipMe">Flip me</string>
+
+  <!-- Picker mode -->
+  <string key="picker.tapToStart">Tap Cast to start</string>
+  <string key="picker.itemCount">%lld items</string>
+  <string key="picker.fromItems">from %lld items</string>
+  <string key="picker.addItems">Add items</string>
+
+  <!-- Password mode -->
+  <string key="password.length">Length: %lld</string>
+  <string key="password.excludeAmbiguous">Exclude ambiguous</string>
+  <string key="password.tapToStart">Tap Cast to start</string>
+  <string key="password.tapToGenerate">Tap to generate</string>
+
+  <!-- Color mode -->
+  <string key="color.format">Format</string>
+  <string key="color.hex">HEX</string>
+  <string key="color.rgb">RGB</string>
+  <string key="color.hsl">HSL</string>
+
+  <!-- Shuffle mode -->
+  <string key="shuffle.tapToShuffle">Tap Cast to shuffle</string>
+  <string key="shuffle.itemCount">%lld items</string>
+  <string key="shuffle.addItems">Add items</string>
+
+  <!-- Settings sheet -->
+  <string key="settings.appearance">Appearance</string>
+  <string key="settings.feedback">Feedback</string>
+  <string key="settings.startupAndUpdates">Startup &amp; Updates</string>
+  <string key="settings.language">Language</string>
+  <string key="settings.theme">Theme</string>
+  <string key="settings.theme.auto">Auto</string>
+  <string key="settings.theme.light">Light</string>
+  <string key="settings.theme.dark">Dark</string>
+  <string key="settings.animation">Animation</string>
+  <string key="settings.animation.off">Off</string>
+  <string key="settings.animation.subtle">Subtle</string>
+  <string key="settings.animation.full">Full</string>
+  <string key="settings.sounds">Sounds</string>
+  <string key="settings.haptics">Haptics</string>
+  <string key="settings.haptics.infoTitle">Haptics require a Force Touch trackpad</string>
+  <string key="settings.haptics.infoBody">On a Mac without a Force Touch trackpad — a desktop, a non-Force-Touch laptop, or a connected mouse — haptic feedback is silently ignored by macOS. Sounds still play.</string>
+  <string key="settings.haptics.tooltip">Haptics require a Force Touch trackpad. Desktop Macs and non-Force-Touch trackpads ignore haptic feedback silently.</string>
+
+  <string key="settings.launchAtLogin">Launch at login</string>
+  <string key="settings.checkForUpdatesOnLaunch">Check for updates on launch</string>
+
+  <!-- Updates -->
+  <string key="update.check">Check for Updates</string>
+  <string key="update.checkNow">Check Now</string>
+  <string key="update.checking">Checking…</string>
+  <string key="update.available">Update Available</string>
+  <string key="update.upToDate">You're up to date.</string>
+  <string key="update.download">Download</string>
+  <string key="update.install">Install Now</string>
+  <string key="update.version">Version %@</string>
+  <string key="update.versionAvailable">v%@ available</string>
+  <string key="update.error">Error: %@</string>
+
+  <!-- Menu items -->
+  <string key="menu.aboutCast">About Cast</string>
+  <string key="menu.checkForUpdates">Check for Updates…</string>
+
+  <!-- About tab -->
+  <string key="about.wordmark">Cast</string>
+  <string key="about.builtWith">Built with Swift and SwiftUI</string>
+  <string key="about.a11y.icon">Cast app icon</string>
+
+  <!-- Action rows (About) -->
+  <string key="action.viewOnGitHub">View on GitHub</string>
+  <string key="action.sponsor">Sponsor on GitHub</string>
+  <string key="action.sponsor.subtitle">Support ongoing development</string>
+  <string key="action.buyMeACoffee">Buy me a coffee</string>
+  <string key="action.buyMeACoffee.subtitle">One-time tip, no account needed</string>
+  <string key="action.translations">Translations</string>
+  <string key="action.reportIssue">Report an issue</string>
+
+  <!-- Restart alert -->
+  <string key="restart.title">Restart Cast to change language?</string>
+  <string key="restart.message">Cast will switch to %@ on the next launch. Restart now to apply it immediately.</string>
+  <string key="restart.now">Restart Now</string>
+  <string key="restart.later">Later</string>
+
+  <!-- Help popover -->
+  <string key="help.section.howToUse">How to use</string>
+  <string key="help.section.tips">Tips</string>
+  <string key="help.section.shortcuts">Shortcuts</string>
+  <string key="help.shortcut.space">Cast a new value</string>
+  <string key="help.shortcut.copy">Copy the current result</string>
+  <string key="help.shortcut.home">Return to home</string>
+
+  <string key="help.number.kicker">Random integer</string>
+  <string key="help.number.tagline">Pick a whole number between Min and Max (inclusive).</string>
+  <string key="help.number.step1">Type Min and Max. Cast to draw one number in that range.</string>
+  <string key="help.number.step2">Tap the giant numeral to copy it to the clipboard.</string>
+  <string key="help.number.step3">Toggle "Unique in session" to keep drawing without repeats.</string>
+  <string key="help.number.tip1">When uniques are exhausted, a Reset chip appears inline.</string>
+  <string key="help.number.tip2">Negative ranges are supported — e.g. -10 … 10.</string>
+
+  <string key="help.dice.kicker">Polyhedral roll</string>
+  <string key="help.dice.tagline">Roll 1 – 6 dice in any standard D-shape (D4 – D100).</string>
+  <string key="help.dice.step1">Pick Sides and Count. Cast to roll all dice at once.</string>
+  <string key="help.dice.step2">Result shows individual rolls plus the total.</string>
+  <string key="help.dice.step3">Tap the result zone to copy a formatted summary.</string>
+  <string key="help.dice.tip1">Bigger dice rotate further on a cast — tune animation in Settings.</string>
+
+  <string key="help.coin.kicker">Fair 50/50</string>
+  <string key="help.coin.tagline">Flip a cryptographically-fair coin and land on Heads or Tails.</string>
+  <string key="help.coin.step1">Hit Cast. The coin flips, then reveals its face.</string>
+  <string key="help.coin.step2">Tap the result to copy "Heads" or "Tails".</string>
+  <string key="help.coin.tip1">No bias over long runs — suitable for real tiebreakers.</string>
+
+  <string key="help.picker.kicker">One from many</string>
+  <string key="help.picker.tagline">Pick a single item out of your list at random.</string>
+  <string key="help.picker.step1">Type your items — one per line — in the editor below.</string>
+  <string key="help.picker.step2">Cast to roulette through them and land on one.</string>
+  <string key="help.picker.step3">Tap the result to copy just the picked item.</string>
+  <string key="help.picker.tip1">Duplicate lines get weighted — add a name twice to double its odds.</string>
+
+  <string key="help.password.kicker">CSPRNG-backed</string>
+  <string key="help.password.tagline">Generate a secure password from the enabled character classes.</string>
+  <string key="help.password.step1">Set Length (8 – 64) with the slider.</string>
+  <string key="help.password.step2">Toggle the A / a / 1 / !@# chips for each class you want in the mix.</string>
+  <string key="help.password.step3">Cast to generate. Tap to copy — the password is never saved to disk.</string>
+  <string key="help.password.tip1">"Exclude ambiguous" drops 0, O, 1, l, I, | to avoid misreads.</string>
+  <string key="help.password.tip2">At least one class must stay on — the last chip locks itself.</string>
+
+  <string key="help.color.kicker">Full-spectrum</string>
+  <string key="help.color.tagline">Generate a random color, formatted for copy-paste.</string>
+  <string key="help.color.step1">Choose HEX, RGB, or HSL with the format picker.</string>
+  <string key="help.color.step2">Cast to draw a new color — the swatch fills the whole result zone.</string>
+  <string key="help.color.step3">Tap the swatch to copy the value in your chosen format.</string>
+  <string key="help.color.tip1">Label color auto-flips between black/white based on luminance.</string>
+
+  <string key="help.shuffle.kicker">Reorder list</string>
+  <string key="help.shuffle.tagline">Return your list in a random order. Needs at least 2 items.</string>
+  <string key="help.shuffle.step1">Type your items — one per line — in the editor below.</string>
+  <string key="help.shuffle.step2">Cast to scatter them into a fresh sequence.</string>
+  <string key="help.shuffle.step3">Tap the result to copy the whole shuffled list, newline-joined.</string>
+  <string key="help.shuffle.tip1">Uses a Fisher–Yates shuffle backed by a secure RNG.</string>
+
+  <!-- Apple Shortcuts intent titles -->
+  <string key="intent.castNumber">Cast a Number</string>
+  <string key="intent.rollDice">Roll Dice</string>
+  <string key="intent.flipCoin">Flip a Coin</string>
+  <string key="intent.pickFromList">Pick from List</string>
+  <string key="intent.generatePassword">Generate Password</string>
+  <string key="intent.randomColor">Random Color</string>
+  <string key="intent.shuffleList">Shuffle List</string>
+
+  <!-- Intent errors -->
+  <string key="intent.error.invalidRange">Min must be less than Max.</string>
+  <string key="intent.error.emptyList">The list must not be empty.</string>
+  <string key="intent.error.noCharClasses">At least one character class must be enabled.</string>
+  <string key="intent.error.listTooShort">The list must have at least 2 items.</string>
+</strings>
