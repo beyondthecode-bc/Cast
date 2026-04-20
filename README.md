@@ -35,9 +35,23 @@
 
 ## Screenshots
 
-<p align="center">
-  <img src="images/screenshot-1.png" alt="Screenshot" width="520">
-</p>
+<table>
+  <tr>
+    <td><img src="images/screenshot-home.png" alt="Home grid — all 7 modes at a glance" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>All 7 modes on a single canvas — Number, Dice, Coin, Picker, Password, Color, Shuffle — plus live previews of each mode's last cast.</sub></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="images/screenshot-about.png" alt="About sheet with branded action rows" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>The About sheet — GitHub, Sponsors, Buy Me a Coffee, Translations, and issue reporting, each with its real brand palette.</sub></td>
+  </tr>
+</table>
 
 ---
 
