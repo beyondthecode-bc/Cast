@@ -33,6 +33,10 @@
 
 ---
 
+> [!NOTE]
+> **This repository is the Cast community hub** — translations, issue tracking, and releases. Cast is a free, closed-source macOS app; the source code is not published here. **[Download Cast from Releases](https://github.com/beyondthecode-bc/Cast/releases/latest).**
+
+
 ## Screenshots
 
 <table>
