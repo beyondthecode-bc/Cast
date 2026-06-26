@@ -169,19 +169,6 @@ If Cast is useful to you, consider supporting development:
 
 ## Troubleshooting
 
-### "Cast" Not Opened -- Gatekeeper warning
-
-Cast is not yet notarized with Apple. On first launch you may see a Gatekeeper warning.
-
-**To fix this:**
-
-1. Click **Done** to dismiss the dialog
-2. Open **System Settings > Privacy & Security**
-3. Scroll down -- you'll see a message that Cast was blocked
-4. Click **Open Anyway**
-
-This only needs to be done once. After that, the app will open normally.
-
 ### Administrator password required when installing an update
 
 When you click **Install Now** in the About window, macOS will show a password prompt before replacing the app in `/Applications`. This is expected -- the app needs elevated permissions to overwrite itself.
