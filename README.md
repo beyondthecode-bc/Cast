@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/beyondthecode-bc/Cast/releases/latest"><img src="https://img.shields.io/github/v/release/beyondthecode-bc/Cast?style=flat-square&label=Download&color=blue" alt="Latest Release"></a>
+  <a href="https://apps.apple.com/us/app/cast-random-tools/id6796063987?mt=12"><img src="https://img.shields.io/badge/Download_on_the-Mac_App_Store-000000?style=flat-square&logo=apple&logoColor=white" alt="Download on the Mac App Store"></a>
+  <a href="https://github.com/beyondthecode-bc/Cast/releases/latest"><img src="https://img.shields.io/github/v/release/beyondthecode-bc/Cast?style=flat-square&label=Direct%20Download&color=blue" alt="Latest direct release"></a>
   <a href="https://github.com/beyondthecode-bc/Cast/releases/latest"><img src="https://img.shields.io/github/downloads/beyondthecode-bc/Cast/total?style=flat-square&label=Downloads&color=brightgreen" alt="Downloads"></a>
   <a href="https://github.com/beyondthecode-bc/Cast/stargazers"><img src="https://img.shields.io/github/stars/beyondthecode-bc/Cast?style=flat-square" alt="Stars"></a>
   <img src="https://img.shields.io/github/license/beyondthecode-bc/Cast?style=flat-square" alt="License">
@@ -34,7 +35,7 @@
 ---
 
 > [!NOTE]
-> **This repository is the Cast community hub** — translations, issue tracking, and releases. Cast is a free, closed-source macOS app; the source code is not published here. **[Download Cast from Releases](https://github.com/beyondthecode-bc/Cast/releases/latest).**
+> **This repository is the Cast community hub** — translations, issue tracking, and direct releases. Cast is a free, closed-source macOS app; the source code is not published here. **[Download Cast from the Mac App Store](https://apps.apple.com/us/app/cast-random-tools/id6796063987?mt=12)** or use the [direct GitHub release](https://github.com/beyondthecode-bc/Cast/releases/latest).
 
 
 ## Screenshots
@@ -61,9 +62,9 @@
 
 ## Download
 
-Download the latest version from [**Releases**](https://github.com/beyondthecode-bc/Cast/releases/latest). Unzip, move `Cast.app` to Applications, and launch.
+Cast is available from the [**Mac App Store**](https://apps.apple.com/us/app/cast-random-tools/id6796063987?mt=12).
 
-The app includes a built-in update checker -- open **About** and click **Check Now** to see if a newer version is available.
+For existing users of the direct build, open **About** and click **Check Now** to check for an update. For a new direct installation, download the latest version from [**GitHub Releases**](https://github.com/beyondthecode-bc/Cast/releases/latest), unzip it, move `Cast.app` to Applications, and launch.
 
 ## Features
 
